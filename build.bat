@@ -1,2 +1,2 @@
 @echo off
-lessc -x index.less > ../dark.qss
+lessc -x index.less > "../One Dark.qss"
